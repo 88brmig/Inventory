@@ -1,0 +1,3 @@
+/home/brm98/code/Inventory/CMakeFiles/rebuild_cache.dir
+/home/brm98/code/Inventory/CMakeFiles/edit_cache.dir
+/home/brm98/code/Inventory/CMakeFiles/Inventory.dir
